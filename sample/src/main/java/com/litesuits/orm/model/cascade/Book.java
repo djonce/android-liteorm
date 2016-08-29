@@ -1,10 +1,10 @@
 package com.litesuits.orm.model.cascade;
 
-import com.litesuits.orm.db.annotation.Column;
-import com.litesuits.orm.db.annotation.Mapping;
-import com.litesuits.orm.db.annotation.Table;
-import com.litesuits.orm.db.annotation.UniqueCombine;
-import com.litesuits.orm.db.enums.Relation;
+import tech.wangjie.liteorm.db.annotation.Column;
+import tech.wangjie.liteorm.db.annotation.Mapping;
+import tech.wangjie.liteorm.db.annotation.Table;
+import tech.wangjie.liteorm.db.annotation.UniqueCombine;
+import tech.wangjie.liteorm.db.enums.Relation;
 import com.litesuits.orm.model.Model;
 
 /**

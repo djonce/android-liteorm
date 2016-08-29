@@ -1,8 +1,8 @@
 package com.litesuits.orm.model;
 
-import com.litesuits.orm.db.annotation.*;
-import com.litesuits.orm.db.enums.AssignType;
-import com.litesuits.orm.db.enums.Relation;
+import tech.wangjie.liteorm.db.annotation.*;
+import tech.wangjie.liteorm.db.enums.AssignType;
+import tech.wangjie.liteorm.db.enums.Relation;
 import com.litesuits.orm.model.cascade.Book;
 
 import java.util.ArrayList;

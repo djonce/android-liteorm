@@ -10,8 +10,8 @@ import android.widget.LinearLayout.LayoutParams;
 import android.widget.ScrollView;
 import android.widget.TextView;
 
-import com.litesuits.orm.R;
-import com.litesuits.orm.log.OrmLog;
+import com.litesuits.orm.samples.R;
+import tech.wangjie.liteorm.log.OrmLog;
 
 /**
  * 动态添加按钮和点击事件

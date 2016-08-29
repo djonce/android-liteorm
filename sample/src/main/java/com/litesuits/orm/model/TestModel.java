@@ -1,7 +1,7 @@
 package com.litesuits.orm.model;
 
-import com.litesuits.orm.db.annotation.*;
-import com.litesuits.orm.db.enums.AssignType;
+import tech.wangjie.liteorm.db.annotation.*;
+import tech.wangjie.liteorm.db.enums.AssignType;
 
 /**
  * @author MaTianyu @http://litesuits.com

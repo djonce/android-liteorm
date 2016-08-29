@@ -1,6 +1,6 @@
 package com.litesuits.orm.test;
 
-import com.litesuits.orm.db.assit.CollSpliter;
+import tech.wangjie.liteorm.db.assit.CollSpliter;
 
 import java.util.ArrayList;
 import java.util.Collection;

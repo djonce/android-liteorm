@@ -16,7 +16,7 @@
 
 package com.litesuits.orm.test;
 
-import com.litesuits.orm.db.utils.FieldUtil;
+import tech.wangjie.liteorm.db.utils.FieldUtil;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;

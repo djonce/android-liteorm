@@ -1,9 +1,9 @@
 package com.litesuits.orm.model.cascade;
 
-import com.litesuits.orm.db.annotation.MapCollection;
-import com.litesuits.orm.db.annotation.Mapping;
-import com.litesuits.orm.db.annotation.Table;
-import com.litesuits.orm.db.enums.Relation;
+import tech.wangjie.liteorm.db.annotation.MapCollection;
+import tech.wangjie.liteorm.db.annotation.Mapping;
+import tech.wangjie.liteorm.db.annotation.Table;
+import tech.wangjie.liteorm.db.enums.Relation;
 import com.litesuits.orm.model.Person;
 
 import java.util.Queue;

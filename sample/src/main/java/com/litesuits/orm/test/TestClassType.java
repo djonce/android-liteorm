@@ -1,6 +1,6 @@
 package com.litesuits.orm.test;
 
-import com.litesuits.orm.db.utils.FieldUtil;
+import tech.wangjie.liteorm.db.utils.FieldUtil;
 import com.litesuits.orm.model.single.Boss;
 
 import java.lang.reflect.Field;

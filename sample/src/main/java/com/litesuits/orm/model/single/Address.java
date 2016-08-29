@@ -1,10 +1,10 @@
 package com.litesuits.orm.model.single;
 
-import com.litesuits.orm.db.annotation.Column;
-import com.litesuits.orm.db.annotation.NotNull;
-import com.litesuits.orm.db.annotation.PrimaryKey;
-import com.litesuits.orm.db.annotation.Table;
-import com.litesuits.orm.db.enums.AssignType;
+import tech.wangjie.liteorm.db.annotation.Column;
+import tech.wangjie.liteorm.db.annotation.NotNull;
+import tech.wangjie.liteorm.db.annotation.PrimaryKey;
+import tech.wangjie.liteorm.db.annotation.Table;
+import tech.wangjie.liteorm.db.enums.AssignType;
 
 /**
  * 一个 {@link Man}可以有多个地址

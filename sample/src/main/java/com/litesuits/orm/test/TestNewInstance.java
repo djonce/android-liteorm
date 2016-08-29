@@ -1,7 +1,7 @@
 package com.litesuits.orm.test;
 
-import com.litesuits.orm.db.annotation.MapCollection;
-import com.litesuits.orm.db.utils.ClassUtil;
+import tech.wangjie.liteorm.db.annotation.MapCollection;
+import tech.wangjie.liteorm.db.utils.ClassUtil;
 
 import java.lang.reflect.*;
 import java.util.*;

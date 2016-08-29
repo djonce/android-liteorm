@@ -1,7 +1,7 @@
 package com.litesuits.orm.model.single;
 
-import com.litesuits.orm.db.annotation.Check;
-import com.litesuits.orm.db.annotation.Ignore;
+import tech.wangjie.liteorm.db.annotation.Check;
+import tech.wangjie.liteorm.db.annotation.Ignore;
 
 import java.io.Serializable;
 
